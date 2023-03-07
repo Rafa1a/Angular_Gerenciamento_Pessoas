@@ -1,2 +1,2 @@
 # Angular_project2
- estudo angular
+ estudo angular 2

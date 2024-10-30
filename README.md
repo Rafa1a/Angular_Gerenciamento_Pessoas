@@ -1,7 +1,7 @@
 # QuartoApp: Gerenciamento de Pessoas
 
 Este projeto Angular demonstra um sistema simples para gerenciar informações de pessoas. Ele utiliza componentes para exibir, adicionar e listar pessoas, e um serviço para gerenciar os dados.
-
+ 
 ## Estrutura do Projeto
 
 ```
